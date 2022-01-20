@@ -7,11 +7,11 @@ I have provided dummy json for students and teachers. I have created separate st
 
 ### How to use
 
-* Start the application using ### `go run main.go`. Application will start on `http://localhost:6001`.
+* Start the application using `go run main.go`. Application will start on `http://localhost:6001`.
 * Install Thunder client extension if using VS code or Postman for making api calls
 * Select data from StudentsDummy.json for Students and TeachersDummy.json for Teachers
 
-**Note:** For Students RollNo is unique identifier and for Teachers Id is unique identifier. When performing create operation these will generate randomly for first entry and then increment by 1 for rest entries.
+**Note:** For Students **RollNo** is unique identifier and for Teachers **Id** is unique identifier. When performing create operation these will generate randomly for first entry and then increment by 1 for rest entries.
 
 Following operations are available for both tables
 
