@@ -11,7 +11,7 @@ I have provided dummy json for students and teachers. I have created separate st
 * Install Thunder client extension if using VS code or Postman for making api calls
 * Select data from StudentsDummy.json for Students and TeachersDummy.json for Teachers
 
-**Note:** For Students RollNo is unique identifier and for Teachers Id is unique identifier. When performing create operation these will generate randomly for first entry and then increment by 1 for rest entries.
+**Note:** For Students **RollNo** is unique identifier and for Teachers **Id** is unique identifier. When performing create operation these will generate randomly for first entry and then increment by 1 for rest entries.
 
 Following operations are available for both tables
 
